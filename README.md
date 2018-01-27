@@ -1,1 +1,1 @@
-GUI of java
+Project Developed by JAVA GUI
