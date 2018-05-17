@@ -10,7 +10,7 @@
 ## Interfaces
 ### Tempareture
 ![tempareture](https://user-images.githubusercontent.com/23103980/40180876-a6be0872-5a09-11e8-9799-50ab734fe038.JPG)
-* Leap Year
+### Leap Year
 ![leapyear](https://user-images.githubusercontent.com/23103980/40180890-ab81baca-5a09-11e8-83e3-18f12dec8183.JPG)
 
 ## Codes
