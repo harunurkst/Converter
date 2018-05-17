@@ -6,4 +6,6 @@
 ## Requirements
 * Java 8.00
 * Netbeans 8.1
-![Alt text](master/img/Capture1.JPG?raw=true "Title")
+
+## ScreenShots
+![allbum](https://user-images.githubusercontent.com/23103980/40180686-37578346-5a09-11e8-9ec8-361b2371770c.jpg)
